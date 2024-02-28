@@ -103,3 +103,7 @@ Edit the code based on research and dev recommendation solve the errors if any.
 **
 TODO:
 **
+- check the current code
+- link the content to each level
+- create the function to be used in all level
+- write storyline/dialog
