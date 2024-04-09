@@ -26,7 +26,7 @@ Welcome to the Python Analytics Quest! 🎮 Our mission: to create an epic text-
    - If 🔑: Unlock the next level
    - If 🍗: Nothing happens
 
-4. **🐉 Dragon (Boss): Feed the dragon the key food item to escape the dungeon.
+4. **🐉 Dragon (Boss)**: Feed the dragon the key food item to escape the dungeon.
 
 ## Presentation
 For a detailed overview, check the [presentation slides](https://docs.google.com/presentation/d/1uukvpNNwX6-tdKJ2T-HxcvnL1N-v7FMbRb1MfbsXQJA/edit#slide=id.g2be405c8e65_0_126).
