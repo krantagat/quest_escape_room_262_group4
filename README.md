@@ -6,6 +6,11 @@ Welcome to the Python Analytics Quest! 🎮 Our mission: to create an epic text-
 🏰 Entering the dungeon (yes/no) > Level 1️⃣ > Level 2️⃣ > Level 3️⃣ > 🐉 Dragon (Boss) > Success 🏆
 
 ### Level Overview:
+
+- 🔑: Key food (Unlocks the next level)
+- 💀: Toxic Food (Game over - restart)
+- 🍗: Edible Food (Nothing happens)
+
 1. **Level 1️⃣**: Explore or examine items (1️⃣🔑, 1️⃣💀, 2️⃣🍗)
    - If 💀: Game over - restart
    - If 🔑: Unlock the next level
@@ -21,7 +26,7 @@ Welcome to the Python Analytics Quest! 🎮 Our mission: to create an epic text-
    - If 🔑: Unlock the next level
    - If 🍗: Nothing happens
 
-4. **🐉 Dragon (Boss)**: Defeat the dragon by examining at least 5 eatable food items.
+4. **🐉 Dragon (Boss): Feed the dragon the key food item to escape the dungeon.
 
 ## Presentation
 For a detailed overview, check the [presentation slides](https://docs.google.com/presentation/d/1uukvpNNwX6-tdKJ2T-HxcvnL1N-v7FMbRb1MfbsXQJA/edit#slide=id.g2be405c8e65_0_126).
