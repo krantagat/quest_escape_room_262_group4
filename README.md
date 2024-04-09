@@ -7,17 +7,17 @@ Welcome to the Python Analytics Quest! 🎮 Our mission: to create an epic text-
 
 ### Level Overview:
 1. **Level 1️⃣**: Explore or examine items (1️⃣🔑, 1️⃣💀, 2️⃣🍗)
-   - If 💀: Game over - restart?
+   - If 💀: Game over - restart
    - If 🔑: Unlock the next level
    - If 🍗: Nothing happens
 
 2. **Level 2️⃣**: Explore or examine items (1️⃣🔑, 1️⃣💀, 2️⃣🍗)
-   - If 💀: Game over - restart?
+   - If 💀: Game over - restart
    - If 🔑: Unlock the next level
    - If 🍗: Nothing happens
 
 3. **Level 3️⃣**: Explore or examine items (1️⃣🔑, 1️⃣💀, 2️⃣🍗)
-   - If 💀: Game over - restart?
+   - If 💀: Game over - restart
    - If 🔑: Unlock the next level
    - If 🍗: Nothing happens
 
